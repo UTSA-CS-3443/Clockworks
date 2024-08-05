@@ -83,9 +83,9 @@ Clockworks provides a streamlined user experience with a clutter-free interface,
 
 ## Team Members
 
-Omar Mian
-Tibian Elsheikh
-Roman Garanzuay
+Omar Mian, 
+Tibian Elsheikh, 
+Roman Garanzuay, 
 Raul Martinez
 
 
