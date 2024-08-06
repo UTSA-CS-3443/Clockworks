@@ -58,6 +58,11 @@ Clockworks provides a streamlined user experience with a clutter-free interface,
 - Contains motivational quotes to be randomly loaded and displayed.
 - Columns: quote_id, quote_string, quote_author.
 
+## Testing Instructions
+- _Pomodoro Timer_: Push "**Start**" to begin the 25 minute work timer. To pause the timer, push "**Pause**" and to resume, push "**Resume**". You can reset back to the beginning of the work timer by pushing "Reset". Once the work timer ends, the 5 minute break timer begins. Simply wait for this timer to end and a button will appear to return to the beginning of the work timer.
+- _Kanban Board_: Push the "**+**" button to add a task to the queue. If there are no tasks prior to adding, this will be the "current task" and will show up in the "**In Progress**" area. If more tasks are added, they will be placed in a queue shown in to "**To Do**" area. To make a task from the "To Do" section a current task, simply click on it and the current task prior to clicking will be placed in the front of the queue. Once you have completed the current task, simply click on it and push "**Finish Task**".
+- _Reminders_: The beginning screen shows a "**+**" button, which takes you to add a reminder, and a "**My Reminders**" button which takes you to your current reminders. When taken to the add reminders screen, type what you want to be reminded and what time the app will remind you, then either "**Add**" to Today's reminders or "**Add To Week**" to this week's reminders. Click either Add button to take you to your current reminders (Today or This Week depending on the button). To mark a reminder as completed, toggle the the button to the left.
+- _Motivation_: Simply open up the screen to be greeted with a famous quote to get you motivated. 
 
 ## Future Enhancements
 
