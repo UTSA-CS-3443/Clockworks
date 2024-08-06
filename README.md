@@ -64,6 +64,11 @@ Clockworks provides a streamlined user experience with a clutter-free interface,
 - Customizing themes and layout of the app.
 - Syncing with Google and Apple calendars.
 
+## Known Issues
+- The Pomodoro Timer always resets when switching to a different screen (i.e., the Knaban Board screen).
+- The queue for the Kanban Board isn't saved when adding a reminder.
+- Reminders don't save when switching to a different screen.
+
 ## Getting Started
 
 ### Prerequisites
